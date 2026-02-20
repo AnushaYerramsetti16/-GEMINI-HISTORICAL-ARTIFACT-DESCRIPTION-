@@ -6,7 +6,7 @@ from PIL import Image
 
 # --- Configuration ---
 load_dotenv()
-api_key = os.getenv("AIzaSyAi3uVyZxsSiutTG6pr6QSxQCC2BfrS4co")
+api_key = os.getenv("AIzaSyBugtHRAs5fz8GXIdNwur3W81bIPhy_Bw0")
 genai.configure(api_key=api_key)
 
 # --- Utility Functions ---
